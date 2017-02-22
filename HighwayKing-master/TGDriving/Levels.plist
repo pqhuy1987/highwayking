@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Loafland</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Easy Street</string>
+			<key>class</key>
+			<string>Level_1</string>
+			<key>locked</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Litterbox</string>
+			<key>class</key>
+			<string>Level_2</string>
+			<key>locked</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Roundadrought</string>
+			<key>class</key>
+			<string>Level_3</string>
+			<key>locked</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rush Hour</string>
+			<key>class</key>
+			<string>Level_4</string>
+			<key>locked</key>
+			<true/>
+		</dict>
+	</array>
+	<key>Picklefornia</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>River Side</string>
+			<key>class</key>
+			<string>Level_5</string>
+			<key>locked</key>
+			<false/>
+			<key>hidden</key>
+			<true/>
+		</dict>
+	</array>
+</dict>
+</plist>

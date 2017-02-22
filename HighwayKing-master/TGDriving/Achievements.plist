@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>vallet</key>
+	<dict>
+		<key>title</key>
+		<string>Vallet</string>
+		<key>description</key>
+		<string>Park 20 Trucks</string>
+		<key>icon</key>
+		<string>vallet.png</string>
+	</dict>
+	<key>like_a_boss</key>
+	<dict>
+		<key>title</key>
+		<string>Like a Boss</string>
+		<key>description</key>
+		<string>Park 200 Trucks</string>
+		<key>icon</key>
+		<string>like_a_boss.png</string>
+	</dict>
+	<key>delivery_king</key>
+	<dict>
+		<key>title</key>
+		<string>Delivery King</string>
+		<key>description</key>
+		<string>Park 1000 Trucks</string>
+		<key>icon</key>
+		<string>delivery_king.png</string>
+	</dict>
+	<key>are_you_kidding</key>
+	<dict>
+		<key>title</key>
+		<string>Are You Kidding?</string>
+		<key>description</key>
+		<string>Park 2000 Trucks</string>
+		<key>icon</key>
+		<string>are_you_kidding.png</string>
+	</dict>
+	<key>take_a_bow</key>
+	<dict>
+		<key>title</key>
+		<string>Take a Bow</string>
+		<key>description</key>
+		<string>Complete 10 Trucks</string>
+		<key>icon</key>
+		<string>take_a_bow.png</string>
+	</dict>
+	<key>oh_you_can_drive</key>
+	<dict>
+		<key>title</key>
+		<string>Oh... You Can Drive?</string>
+		<key>description</key>
+		<string>Complete 100 Trucks</string>
+		<key>icon</key>
+		<string>oh_you_can_drive.png</string>
+	</dict>
+	<key>born_to_drive</key>
+	<dict>
+		<key>title</key>
+		<string>Born to DRIVE</string>
+		<key>description</key>
+		<string>Complete 500 Trucks</string>
+		<key>icon</key>
+		<string>born_to_drive.png</string>
+	</dict>
+	<key>who_needs_gps</key>
+	<dict>
+		<key>title</key>
+		<string>Who needs GPS?</string>
+		<key>description</key>
+		<string>Complete 1000 Trucks</string>
+		<key>icon</key>
+		<string>who_needs_gps.png</string>
+	</dict>
+	<key>you_suck</key>
+	<dict>
+		<key>title</key>
+		<string>You Suck!</string>
+		<key>description</key>
+		<string>Ended a level with negative score</string>
+		<key>icon</key>
+		<string>you_suck.png</string>
+	</dict>
+	<key>twisted_metal</key>
+	<dict>
+		<key>title</key>
+		<string>Twisted Metal</string>
+		<key>description</key>
+		<string>50 Trucks Crashed</string>
+		<key>icon</key>
+		<string>twisted_metal.png</string>
+	</dict>
+	<key>speed_demon</key>
+	<dict>
+		<key>title</key>
+		<string>Speed Demon</string>
+		<key>description</key>
+		<string>Complete Litterbox entirely in fast forward mode</string>
+		<key>icon</key>
+		<string>speed_demon.png</string>
+	</dict>
+	<key>ha_ha_too_easy</key>
+	<dict>
+		<key>title</key>
+		<string>Ha Ha! Too Easy!</string>
+		<key>description</key>
+		<string>Complete Easy Street in under 1:00</string>
+		<key>icon</key>
+		<string>ha_ha_too_easy.png</string>
+	</dict>
+	<key>every_second_counts</key>
+	<dict>
+		<key>title</key>
+		<string>Every Second Counts</string>
+		<key>description</key>
+		<string>Complete Litterbox in under 1:10</string>
+		<key>icon</key>
+		<string>every_second_counts.png</string>
+	</dict>
+	<key>make_the_deadline</key>
+	<dict>
+		<key>title</key>
+		<string>Make the Deadline</string>
+		<key>description</key>
+		<string>Complete Roundadrought in under 2:10</string>
+		<key>icon</key>
+		<string>make_the_deadline.png</string>
+	</dict>
+	<key>running_with_nos</key>
+	<dict>
+		<key>title</key>
+		<string>Running with NOS</string>
+		<key>description</key>
+		<string>Complete Rush Hour in under 3:00</string>
+		<key>icon</key>
+		<string>running_with_nos.png</string>
+	</dict>
+	<key>long_hauler</key>
+	<dict>
+		<key>title</key>
+		<string>Long Hauler</string>
+		<key>description</key>
+		<string>Play 10 hour of actual game time</string>
+		<key>icon</key>
+		<string>long_hauler.png</string>
+	</dict>
+	<key>bookworm</key>
+	<dict>
+		<key>title</key>
+		<string>Bookworm</string>
+		<key>description</key>
+		<string>Read the tutorial</string>
+		<key>icon</key>
+		<string>bookworm.png</string>
+	</dict>
+	<key>motorhead</key>
+	<dict>
+		<key>title</key>
+		<string>Motorhead</string>
+		<key>description</key>
+		<string>Complete 20 trucks on any level in Endless mode</string>
+		<key>icon</key>
+		<string>motorhead.png</string>
+	</dict>
+	<key>the_impossible</key>
+	<dict>
+		<key>title</key>
+		<string>The Impossible</string>
+		<key>description</key>
+		<string>Complete 100 trucks in Endless mode on Litterbox, Roundadrought, or Rush Hour</string>
+		<key>icon</key>
+		<string>the_impossible.png</string>
+	</dict>
+	<key>epic</key>
+	<dict>
+		<key>title</key>
+		<string>Epic</string>
+		<key>description</key>
+		<string>Play 100 Games</string>
+		<key>icon</key>
+		<string>epic.png</string>
+	</dict>
+</dict>
+</plist>
